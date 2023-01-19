@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Segmented"
+		},
+		{
+			"path": "../Images_Train"
+		}
+	],
+	"settings": {}
+}
